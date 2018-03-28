@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ForResultApp</string>
+    <string name="btn_discipline">Dados da disciplina</string>
+    <string name="btn_exam1">Dados avaliação 1</string>
+    <string name="btn_exam2">Dados avaliação 2</string>
+    <string name="btn_send_data">Enviar Dados</string>
+    <string name="btn_close">Fechar</string>
+    <string name="label_name">Nome</string>
+    <string name="edit_name_hint">Digite o nome</string>
+    <string name="label_teacher">Professor</string>
+    <string name="edit_teacher_hint">Digite o professor</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="label_exam_title">Titulo</string>
+    <string name="edit_exam_hint">Digite o titulo da avaliação</string>
+    <string name="edit_grade_hint">Digite a nota</string>
+    <string name="label_discipline">Disciplina</string>
+    <string name="label_exam">Avaliação</string>
+    <string name="btn_keep">Voltar e editar</string>
+    <string name="btn_clear">Voltar e limpar</string>
+    <string name="label_grade">Nota</string>
+</resources>
