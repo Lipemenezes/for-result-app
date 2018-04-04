@@ -17,7 +17,7 @@ public class ResultActivity extends AppCompatActivity {
     }
 
     public void discardData(View v) {
-        
+
     }
 
     private void initViews() {

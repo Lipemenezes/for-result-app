@@ -1,10 +1,12 @@
 package model;
 
+import java.io.Serializable;
+
 /**
  * Created by Felipe on 02/04/2018.
  */
 
-public class Discipline {
+public class Discipline implements Serializable{
     private String name;
     private String teacher;
 

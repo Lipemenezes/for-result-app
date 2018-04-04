@@ -12,27 +12,29 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_discipline"
-        android:onClick="openDiscipline"
+        android:onClick="startNextActivity"
+        android:tag="discipline"
         />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_exam1"
-        android:onClick="openExam"
-        android:tag="1"
+        android:onClick="startNextActivity"
+        android:tag="exam1"
         />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_exam2"
-        android:onClick="openExam"
-        android:tag="2"
+        android:onClick="startNextActivity"
+        android:tag="exam2"
         />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_send_data"
-        android:onClick="sendData"
+        android:onClick="startNextActivity"
+        android:tag="send"
         />
     <Button
         android:layout_width="match_parent"

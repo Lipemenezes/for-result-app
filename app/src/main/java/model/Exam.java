@@ -1,10 +1,12 @@
 package model;
 
+import java.io.Serializable;
+
 /**
  * Created by Felipe on 02/04/2018.
  */
 
-public class Exam {
+public class Exam implements Serializable{
     private String name;
     private Double grade;
 
